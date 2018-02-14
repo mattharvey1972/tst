@@ -1,0 +1,31 @@
+// Place all the styles related to the users controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+#nav-bar-avatar {
+  height: 50px;
+  width: 50px;
+  border-radius: 100px;
+}
+
+#profile-avatar {
+  height: 150px;
+  width: 150px;
+  border-radius: 100px;
+  margin-left: 15px
+}
+
+#profile-name {
+  font-size: 50px
+}
+
+.profile > p {
+  margin-left: 17.5%;
+}
+
+.my-form-control {
+  color: #555555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
