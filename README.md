@@ -8,3 +8,4 @@ This app was developed to demo some Rails refactoring best practices and design 
 
 You can view a live demo of the app [here](http://issue-trackr.herokuapp.com/), and you can check out my series of blog posts on Rails refactoring and design patterns for beginners [here](http://www.thegreatcodeadventure.com/rails-refactoring-part-i-the-adapter-pattern/), [here](https://thegreatcodeadventure.com/rails-refactoring-part-ii-services) and [here](https://thegreatcodeadventure.com/rails-refactoring-part-ii-the-decorator-pattern).
 # tst
+# tst
